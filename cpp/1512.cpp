@@ -27,3 +27,14 @@ public:
         return c;
     }
 };
+// Using Hashmap
+class Solution {
+public:
+    int numIdenticalPairs(vector<int>& nums) {
+        int c=0;
+        unordered_map<int,int> hash;
+        for(auto i: nums) hash[i]++;
+        for(auto i: hash) c+=(i.second*(i.second-1))/2;
+        return c;
+    }
+};
