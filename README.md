@@ -15,4 +15,5 @@
 |1480|[Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)|[C++](../master/cpp/1480.cpp)| |Easy|Array|
 |1512|[Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/)|[C++](../master/cpp/1512.cpp)| |Easy|Array, HashTable, Math|
 |1640|[Check Array Formation Through Concatenation](https://leetcode.com/problems/check-array-formation-through-concatenation/)|[C++](../master/cpp/1640.cpp) ||Easy|Array, Sort|
+|1678|[Goal Parser Interpretation](https://leetcode.com/problems/goal-parser-interpretation/)|[C++](../master/cpp/1678.cpp) ||Easy|String|
 |1672|[Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/)|[C++](../master/cpp/1672.cpp) ||Easy|Array|
