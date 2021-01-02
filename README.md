@@ -8,6 +8,7 @@
 |977|[Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)| [C++](../master/cpp/977.cpp) | |Easy| Array
 |1089|[Duplicate Zeros](https://leetcode.com/problems/duplicate-zeros/)| [C++](../master/cpp/1089.cpp) | |Easy| Array |
 |1108|[Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/)|[C++](../master/cpp/1108.cpp) | |Easy|String|
+|1281|[Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)|[C++](../master/cpp/1281.cpp) |   |Easy||
 |1295|[Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/)| [C++](../master/cpp/1295.cpp) | |Easy| Array|
 |1342|[Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/)|[C++](../master/cpp/1342.cpp) | |Easy|Bit Manipulation|
 |1365|[How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/)|[C++](../master/cpp/1365.cpp) | |Easy|Array, HashTable|
