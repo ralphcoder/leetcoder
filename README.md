@@ -14,6 +14,7 @@
 |1470|[Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/)|[C++](../master/cpp/1470.cpp) | |Easy|Array|
 |1480|[Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)|[C++](../master/cpp/1480.cpp)| |Easy|Array|
 |1512|[Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/)|[C++](../master/cpp/1512.cpp)| |Easy|Array, HashTable, Math|
+|1528|[Shuffle String](https://leetcode.com/problems/shuffle-string/)|[c++](../master/cpp/1528.cpp) | |Easy|Sort|
 |1603|[Design Parking System](https://leetcode.com/problems/design-parking-system/)|[C++](../master/cpp/1603.cpp) ||Easy|Design|
 |1640|[Check Array Formation Through Concatenation](https://leetcode.com/problems/check-array-formation-through-concatenation/)|[C++](../master/cpp/1640.cpp) ||Easy|Array, Sort|
 |1678|[Goal Parser Interpretation](https://leetcode.com/problems/goal-parser-interpretation/)|[C++](../master/cpp/1678.cpp) ||Easy|String|
