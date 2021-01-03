@@ -14,6 +14,7 @@
 |1313|[Decompress Run-Length Encoded List](https://leetcode.com/problems/decompress-run-length-encoded-list/)|[C++](../master/cpp/1313.cpp) | |Easy|Array|
 |1342|[Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/)|[C++](../master/cpp/1342.cpp) | |Easy|Bit Manipulation|
 |1365|[How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/)|[C++](../master/cpp/1365.cpp) | |Easy|Array, HashTable|
+|1379|[Find a Corresponding Node of a Binary Tree in a Clone of That Tree](https://leetcode.com/problems/find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/)|[Solution](../master/cpp/1379.cpp) | |Mediu m|Tree|
 |1389|[Create Target Array in the Given Order](https://leetcode.com/problems/create-target-array-in-the-given-order/)|[Solution](../master/cpp/1389.cpp) | |Easy|Array|
 |1431|[Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/)|[C++](../master/cpp/1431.cpp) | |Easy|Array|
 |1470|[Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/)|[C++](../master/cpp/1470.cpp) | |Easy|Array|
