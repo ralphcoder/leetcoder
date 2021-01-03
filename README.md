@@ -23,6 +23,7 @@
 |1528|[Shuffle String](https://leetcode.com/problems/shuffle-string/)|[c++](../master/cpp/1528.cpp) | |Easy|Sort|
 |1603|[Design Parking System](https://leetcode.com/problems/design-parking-system/)|[C++](../master/cpp/1603.cpp) ||Easy|Design|
 |1640|[Check Array Formation Through Concatenation](https://leetcode.com/problems/check-array-formation-through-concatenation/)|[C++](../master/cpp/1640.cpp) ||Easy|Array, Sort|
+|1662|[Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/)|[C++](../master/cpp/1662.cpp) ||Easy|String|
 |1678|[Goal Parser Interpretation](https://leetcode.com/problems/goal-parser-interpretation/)|[C++](../master/cpp/1678.cpp) ||Easy|String|
 |1672|[Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/)|[C++](../master/cpp/1672.cpp) ||Easy|Array|
 |1684|[Count the Number of Consistent Strings](https://leetcode.com/problems/count-the-number-of-consistent-strings/)|[Solution](../master/cpp/1684.cpp) ||Easy|String|
