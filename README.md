@@ -16,7 +16,7 @@
 |1342|[Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/)|[C++](../master/cpp/1342.cpp) | |Easy|Bit Manipulation|
 |1365|[How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/)|[C++](../master/cpp/1365.cpp) | |Easy|Array, HashTable|
 |1379|[Find a Corresponding Node of a Binary Tree in a Clone of That Tree](https://leetcode.com/problems/find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/)|[C++](../master/cpp/1379.cpp) | |Mediu m|Tree|
-|1389|[Create Target Array in the Given Order](https://leetcode.com/problems/create-target-array-in-the-given-order/)|[Solution](../master/cpp/1389.cpp) | |Easy|Array|
+|1389|[Create Target Array in the Given Order](https://leetcode.com/problems/create-target-array-in-the-given-order/)|[C++](../master/cpp/1389.cpp) | |Easy|Array|
 |1431|[Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/)|[C++](../master/cpp/1431.cpp) | |Easy|Array|
 |1470|[Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/)|[C++](../master/cpp/1470.cpp) | |Easy|Array|
 |1480|[Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)|[C++](../master/cpp/1480.cpp)| |Easy|Array|
@@ -32,3 +32,4 @@
 |1672|[Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/)|[C++](../master/cpp/1672.cpp) ||Easy|Array|
 |1684|[Count the Number of Consistent Strings](https://leetcode.com/problems/count-the-number-of-consistent-strings/)|[C++](../master/cpp/1684.cpp) ||Easy|String|
 |1688|[Count of Matches in Tournament](https://leetcode.com/problems/count-of-matches-in-tournament/)|[C++](../master/cpp/1688.cpp) ||Easy|Backtracking|
+|1720|[Reformat Phone Number](https://leetcode.com/problems/decode-xored-array/)|[C++](../master/cpp/1720.cpp) ||Easy|Array|
