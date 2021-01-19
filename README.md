@@ -5,7 +5,9 @@
 |  #  |      Title     |   Solutions   | Video  | Difficulty  | Tag
 |-----|----------------|---------------|--------|-------------|-------------
 |485|[Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/)| [C++](../master/cpp/485.cpp) | |Easy| Array |
+|657|[Judge Route Circle](https://leetcode.com/problems/judge-route-circle/)|[C++](../master/cpp/657.cpp) | |Easy |
 |709|[To Lower Case](https://leetcode.com/problems/to-lower-case/)|[C++](../master/cpp/709.cpp) | |Easy| String |
+|700|[Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/)|[C++](../master/cpp/700.cpp) | |Easy| recusion, dfs |
 |938|[Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/)|[C++](../master/cpp/938.cpp) | |Medium| BST, recursion, DFS |
 |977|[Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)| [C++](../master/cpp/977.cpp) | |Easy| Array
 |1089|[Duplicate Zeros](https://leetcode.com/problems/duplicate-zeros/)| [C++](../master/cpp/1089.cpp) | |Easy| Array |
