@@ -9,6 +9,7 @@
 |709|[To Lower Case](https://leetcode.com/problems/to-lower-case/)|[C++](../master/cpp/709.cpp) | |Easy| String |
 |700|[Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/)|[C++](../master/cpp/700.cpp) | |Easy| recusion, dfs |
 |938|[Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/)|[C++](../master/cpp/938.cpp) | |Medium| BST, recursion, DFS |
+|961|[N-Repeated Element in Size 2N Array](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/)|[C++](../master/cpp/961.cpp) | |Easy|
 |977|[Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)| [C++](../master/cpp/977.cpp) | |Easy| Array
 |1089|[Duplicate Zeros](https://leetcode.com/problems/duplicate-zeros/)| [C++](../master/cpp/1089.cpp) | |Easy| Array |
 |1108|[Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/)|[C++](../master/cpp/1108.cpp) | |Easy|String|
