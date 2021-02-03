@@ -39,3 +39,4 @@
 |1684|[Count the Number of Consistent Strings](https://leetcode.com/problems/count-the-number-of-consistent-strings/)|[C++](../master/cpp/1684.cpp) ||Easy|String|
 |1688|[Count of Matches in Tournament](https://leetcode.com/problems/count-of-matches-in-tournament/)|[C++](../master/cpp/1688.cpp) ||Easy|Backtracking|
 |1720|[Reformat Phone Number](https://leetcode.com/problems/decode-xored-array/)|[C++](../master/cpp/1720.cpp) ||Easy|Array|
+|1732|[Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/)|[C++](../master/cpp/1732.cpp) ||Easy|Array
