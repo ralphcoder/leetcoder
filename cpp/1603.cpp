@@ -1,24 +1,13 @@
 class ParkingSystem {
 public:
-    const int big = 1;
-    const int medium = 2;
-    const int small = 3;
-    
-    ParkingSystem(int big, int medium, int small) : arr{0, big, medium, small}
-    {
+    vector<int> count;
+    ParkingSystem(int big, int medium, int small) {
+        count={big,medium,small};
     }
     
     bool addCar(int carType) {
-    
-        if (arr[carType]) {
-            arr[carType] -= 1;
-            return true;
-        }
-        
-        return false;        
+        return count[carType-1]-- >0;
     }
-    
-    vector<int> arr;
 };
 
 /**
