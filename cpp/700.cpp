@@ -9,11 +9,24 @@
  *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
  * };
  */
+
+
+// Iterative Approach
 class Solution {
 public:
     TreeNode* searchBST(TreeNode* root, int val) {
-        while(root!=nullptr && root->val!=val)
+        while(root && root->val!=val)
             root=(root->val>val)?searchBST(root->left,val):searchBST(root->right,val);
         return root;
+    }
+};
+
+//Recursive Approach
+class Solution {
+public:
+    TreeNode* searchBST(TreeNode* root, int val) {
+        if(!root || root->val==val)
+            return root;
+        return root->val<val?searchBST(root->right,val):searchBST(root->left,val);
     }
 };
