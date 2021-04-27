@@ -1,13 +1,22 @@
 class Solution {
 public:
+    vector<int> diStringMatch(string s) {
+        vector<int> res;
+        int f=0,l=s.size();
+        for(auto i:s) res.push_back(i=='I'?f++:l--);
+        res.push_back(f);
+        return res;
+    }
+};
+
+//Another solution
+
+class Solution {
+public:
     vector<int> diStringMatch(string S) {
         vector<int> res;
-        int s=0,l=S.length();
-        for(auto i: S){
-            if(i=='I') res.push_back(s++);
-            else res.push_back(l--);
-        }
-        res.push_back(s);
+        for (int l = 0, h = S.size(), i = 0; i <= S.size(); ++i)
+            res.push_back(i == S.size() || S[i] == 'I' ? l++ : h--);
         return res;
     }
 };
